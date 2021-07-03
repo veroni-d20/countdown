@@ -83,5 +83,5 @@ reloadBtn.addEventListener("click", function () {
     },
   });
   TweenMax.to(timerEl, 1, { opacity: 1 });
-  initTimer("12:35");
+  initTimer("10:00");
 });
